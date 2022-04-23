@@ -1,0 +1,4 @@
+.git/
+.git/*
+.jekyll-cache/
+.jekyll-cache/*
