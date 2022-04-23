@@ -13,7 +13,7 @@ Apache Nifi 1.16.0 sürümünü [şu adresten](https://dlcdn.apache.org/nifi/1.1
  
 `tar zxvf nifi.tar.gz`
  
-Dosyaları çıkarttığınız dizine `nifi.1.16.0` adonda bir dizin oluşacak. Dizinin içine girerek nifi'yi çalıştırıyoruz.
+Dosyaları çıkarttığınız dizine `nifi.1.16.0` adında bir dizin oluşacak. Dizinin içine girerek nifi'yi çalıştırıyoruz.
  
 `./nifi-1.16.0/bin/nifi.sh start`
  
